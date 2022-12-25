@@ -1,0 +1,42 @@
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\bin\Debug\Kursinis.exe.config
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\bin\Debug\Kursinis.exe
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\bin\Debug\Kursinis.pdb
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.csprojAssemblyReference.cache
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.FormRegister.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.FormLogin.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Properties.Resources.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.csproj.GenerateResource.cache
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.csproj.CoreCompileInputs.cache
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.exe
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.pdb
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.FormUserPanel.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormAbout.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormKontaktai.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormKainos.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormPaslaugos.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormStatistika.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormProfilis.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormUzsakymas.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormOrder.resources
+C:\Users\dovyd\Desktop\tam ciuveliui kur kursinias\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormLaisvumas.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\bin\Debug\Kursinis.exe.config
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\bin\Debug\Kursinis.exe
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\bin\Debug\Kursinis.pdb
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.FormRegister.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.FormLogin.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormAbout.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormKainos.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormKontaktai.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormLaisvumas.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormOrder.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormPaslaugos.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormProfilis.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormStatistika.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Forms.FormUzsakymas.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.FormUserPanel.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.exe
+C:\Users\ASUS\source\repos\Kursinis Darbas\Kursinis\Kursinis\obj\Debug\Kursinis.pdb
